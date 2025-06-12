@@ -12,7 +12,9 @@ A clean and modern Weather App built using **Flutter** and **Dart**, providing r
 
 **🎬 Live Demo:**
 
-<img src="./Weather%20APP%20gif.gif" width="400"/>
+| Light Mode | Dark Mode |
+|-----------|-----------|
+| <img src="./Weather%20APP%20gif.gif" width="400"/> | <img src="./weather%20APP%20dark%20mode.png" width="400"/> |
 
 ---
 
